@@ -1,0 +1,8 @@
+# MacOS
+Icon?
+.DS_store
+# python
+__pycache__/
+.ipynb_checkpoints
+# VS Code
+*.code-workspace

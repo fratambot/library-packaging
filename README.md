@@ -1,2 +1,2 @@
-# qrs-wrapper
-A python library wrapping QRS dectection algorithms
+# Library packaging
+This project showcases how to package a python library

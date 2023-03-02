@@ -1,0 +1,17 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python3.9/site-packages/qrs_wrapper-0.0.1-py3.9.egg",
+      "path_type": "hardlink",
+      "sha256": "95ab4700dd5d7ded0462ea6fe64362fc0dd9baf85c148ed24e00aa5b7e27f4d9",
+      "size_in_bytes": 2007
+    },
+    {
+      "_path": "lib/python3.9/site-packages/qrs_wrapper.pth",
+      "path_type": "hardlink",
+      "sha256": "d9476b51774d3081528f8254dbf39e344c1b28f9d5e46ae86cb4260fd067732d",
+      "size_in_bytes": 30
+    }
+  ],
+  "paths_version": 1
+}

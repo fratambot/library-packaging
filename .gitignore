@@ -2,6 +2,7 @@
 Icon?
 .DS_store
 # python
+.pytest_cache
 __pycache__/
 .ipynb_checkpoints
 # VS Code

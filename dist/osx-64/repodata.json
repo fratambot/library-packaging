@@ -1,0 +1,25 @@
+{
+  "info": {
+    "subdir": "osx-64"
+  },
+  "packages": {
+    "qrs-wrapper-0.0.1-py39_0.tar.bz2": {
+      "build": "py39_0",
+      "build_number": 0,
+      "depends": [
+        "python >=3.9,<3.10.0a0",
+        "python_abi 3.9.* *_cp39"
+      ],
+      "md5": "1760c940e7678c2ef91b8832c087c740",
+      "name": "qrs-wrapper",
+      "sha256": "ff23f50492ff18a3085682fd55828e2705603fa041bd2a4682d6de203df6da2f",
+      "size": 10530,
+      "subdir": "osx-64",
+      "timestamp": 1677770212411,
+      "version": "0.0.1"
+    }
+  },
+  "packages.conda": {},
+  "removed": [],
+  "repodata_version": 1
+}

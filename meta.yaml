@@ -1,0 +1,27 @@
+package:
+  name: qrs-wrapper
+  version: 0.0.1
+
+source:
+  path: .
+
+build:
+  script: python setup.py install
+
+requirements:
+  host:
+    - python
+    - python-dotenv
+    - setuptools
+  run:
+    - python
+
+test:
+  imports:
+    - qrs_wrapper
+  source_files:
+    - tests/test_qrs_wrapper.py
+  requires:
+    - pytest
+  commands:
+    - pytest tests/

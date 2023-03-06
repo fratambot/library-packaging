@@ -13,13 +13,16 @@ dependencies:
   - cffi=1.15.1=py39h131948b_3
   - chardet=5.1.0=py39h6e9494a_0
   - charset-normalizer=2.1.1=pyhd8ed1ab_0
+  - click=8.1.3=unix_pyhd8ed1ab_2
   - colorama=0.4.6=pyhd8ed1ab_0
   - conda=23.1.0=py39h6e9494a_0
-  - conda-build=3.23.3=py39hecd8cb5_0
+  - conda-build=3.23.3=py39h6e9494a_1
   - conda-package-handling=2.0.2=pyh38be061_0
   - conda-package-streaming=0.7.0=pyhd8ed1ab_1
+  - conda-verify=3.1.1=py39h6e9494a_1006
   - cryptography=39.0.2=py39hbeae22c_0
   - filelock=3.9.0=pyhd8ed1ab_0
+  - future=0.18.3=pyhd8ed1ab_0
   - glob2=0.7=py_0
   - icu=70.1=h96cf925_0
   - idna=3.4=pyhd8ed1ab_0
@@ -33,7 +36,7 @@ dependencies:
   - liblief=0.12.3=hf0c8a7f_0
   - libllvm14=14.0.6=h5b596cc_1
   - libsqlite=3.40.0=ha978bb4_0
-  - libxml2=2.10.3=hb9e07b5_0
+  - libxml2=2.10.3=hb9e07b5_2
   - libzlib=1.2.13=hfd90126_4
   - lz4-c=1.9.4=hf0c8a7f_0
   - lzo=2.10=haf1e3a3_1000
@@ -60,7 +63,7 @@ dependencies:
   - ripgrep=13.0.0=hbbacdb1_2
   - ruamel.yaml=0.17.21=py39ha30fb19_2
   - ruamel.yaml.clib=0.2.7=py39ha30fb19_1
-  - setuptools=67.5.0=pyhd8ed1ab_0
+  - setuptools=65.3.0=py39h6e9494a_0
   - sigtool=0.1.3=h88f4db0_0
   - six=1.16.0=pyh6c4a22f_0
   - soupsieve=2.3.2.post1=pyhd8ed1ab_0

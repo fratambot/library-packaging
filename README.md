@@ -41,7 +41,7 @@ conda remove my_package
 You can also rebuild the package if you want.
 
 In this case you have to: 
-- Create a conda environment from the `build_environment.yaml` file since some other packages such as `conda-build`, `conda-verify` and `pytest` are required:
+- Create a conda environment from the `build_environment.yaml` file since some other packages such as `conda-build` and `conda-verify` are required:
    ```
    conda env create -f build_environment.yaml
    ```
@@ -53,10 +53,10 @@ In this case you have to:
    conda env update --name my_package --file build_environment.yaml
    ```
 
-- Delete everything inside the `/dist` folder (**but keep the empty folder**)
-- Use the make command to build the package all over again:
+- Use the make command to build the package:
    ```
    make build
    ```
+The content of the `/dist` folder will be removed and the package will be built if some tests are passed.
 
-The package will be built if some tests are passed. It might take few minutes depending on your machine.
+It might take few minutes depending on your machine.

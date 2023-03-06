@@ -2,7 +2,7 @@
 include .env
 
 build:
-	conda build . --output-folder $(LOCAL_FOLDER)
+	conda build . --output-folder $(LOCAL_FOLDER) --verify
 .PHONY: build
 
 install:

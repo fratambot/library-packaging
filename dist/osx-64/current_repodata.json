@@ -10,12 +10,12 @@
         "python >=3.9,<3.10.0a0",
         "python_abi 3.9.* *_cp39"
       ],
-      "md5": "22702b6f91479b36098fbcd2f1ecc352",
+      "md5": "bbe4951642062c5d544c03b57ce72d64",
       "name": "my_package",
-      "sha256": "396697e1c0d2b3327158d23095ffd075e6c48470a628eac9714b802924f7eb37",
-      "size": 3305584,
+      "sha256": "0c4d7c518b6cb16c7d54a2b18cea695613328da906c1564fa08c80c06c3c3f75",
+      "size": 1634807,
       "subdir": "osx-64",
-      "timestamp": 1678109169916,
+      "timestamp": 1678119046354,
       "version": "0.0.1"
     }
   },

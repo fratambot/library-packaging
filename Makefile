@@ -2,6 +2,7 @@
 include .env
 
 build:
+	rm -rf $(LOCAL_FOLDER)/*
 	conda build . --output-folder $(LOCAL_FOLDER) --verify
 .PHONY: build
 

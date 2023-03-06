@@ -41,7 +41,7 @@ conda remove my_package
 You can also rebuild the package if you want.
 
 In this case you have to: 
-- Create a conda environment from the `environment.yaml` file since some other packages such as `conda-build` and `pytest` are required:
+- Create a conda environment from the `environment.yaml` file since some other packages such as `conda-build`, `conda-verify` and `pytest` are required:
    ```
    conda env create -f build_environment.yaml
    ```

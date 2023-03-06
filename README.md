@@ -31,7 +31,7 @@ Or via the interactive script:
 python my_script.py
 ```
 
-To uninstall the package, you simply run the command:
+You can uninstall the package as any other python package with the command:
 ```
 conda remove my_package 
 ```

@@ -14,7 +14,7 @@ You can conveniently use the make command:
    make install
    ```
 
-**That's it !** You can now use now the package modules and their methods by importing them as you would do with any python package or library.
+**That's it !** You can now use now the package modules and their methods by importing them as you would do with any other python package or library.
 
 
 You can test it directly from the python shell :

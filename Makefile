@@ -8,7 +8,3 @@ build:
 install:
 	conda install $(TARBALL_PATH)
 .PHONY: install
-
-uninstall:
-	conda remove $(NAME)
-.PHONY: uninstall

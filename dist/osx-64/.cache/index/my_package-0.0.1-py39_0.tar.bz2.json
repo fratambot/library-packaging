@@ -1,0 +1,1 @@
+{"build": "py39_0", "build_number": 0, "depends": ["python >=3.9,<3.10.0a0", "python_abi 3.9.* *_cp39"], "name": "my_package", "subdir": "osx-64", "timestamp": 1678109169916, "version": "0.0.1", "size": 1635291, "md5": "fa573b4996ac9ae3ee2dea80f6a1702f", "sha256": "4475b6cc92ca2436f84010567fb9dbec9c191aa79b82b834529f8ae55cb63ff1"}

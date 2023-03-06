@@ -3,19 +3,19 @@
     "subdir": "osx-64"
   },
   "packages": {
-    "qrs-wrapper-0.0.1-py39_0.tar.bz2": {
+    "my_package-0.0.1-py39_0.tar.bz2": {
       "build": "py39_0",
       "build_number": 0,
       "depends": [
         "python >=3.9,<3.10.0a0",
         "python_abi 3.9.* *_cp39"
       ],
-      "md5": "1760c940e7678c2ef91b8832c087c740",
-      "name": "qrs-wrapper",
-      "sha256": "ff23f50492ff18a3085682fd55828e2705603fa041bd2a4682d6de203df6da2f",
-      "size": 10530,
+      "md5": "fa573b4996ac9ae3ee2dea80f6a1702f",
+      "name": "my_package",
+      "sha256": "4475b6cc92ca2436f84010567fb9dbec9c191aa79b82b834529f8ae55cb63ff1",
+      "size": 1635291,
       "subdir": "osx-64",
-      "timestamp": 1677770212411,
+      "timestamp": 1678109169916,
       "version": "0.0.1"
     }
   },

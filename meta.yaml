@@ -1,5 +1,5 @@
 package:
-  name: qrs-wrapper
+  name: my_package
   version: 0.0.1
 
 source:
@@ -18,9 +18,9 @@ requirements:
 
 test:
   imports:
-    - qrs_wrapper
+    - my_package
   source_files:
-    - tests/test_qrs_wrapper.py
+    - tests/test_my_module.py
   requires:
     - pytest
   commands:

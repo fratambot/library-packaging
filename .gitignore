@@ -7,3 +7,6 @@ __pycache__/
 .ipynb_checkpoints
 # VS Code
 *.code-workspace
+# local folders
+/notebooks
+/data

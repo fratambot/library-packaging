@@ -1,0 +1,17 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python3.9/site-packages/my_package-0.0.1-py3.9.egg",
+      "path_type": "hardlink",
+      "sha256": "7cd25486121ba86d4bf0804a2e3647ea79171f27333ac168ab459e023eb49170",
+      "size_in_bytes": 2032
+    },
+    {
+      "_path": "lib/python3.9/site-packages/my_package.pth",
+      "path_type": "hardlink",
+      "sha256": "cb37a454c3a410fb6f76841bb9f79c365f3d8bf435792b2e1d46798916d427c0",
+      "size_in_bytes": 29
+    }
+  ],
+  "paths_version": 1
+}

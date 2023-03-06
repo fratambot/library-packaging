@@ -1,7 +1,7 @@
 {
   "channeldata_version": 1,
   "packages": {
-    "qrs-wrapper": {
+    "my_package": {
       "activate.d": false,
       "binary_prefix": false,
       "deactivate.d": false,
@@ -28,7 +28,7 @@
       "summary": null,
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1677770212,
+      "timestamp": 1678109169,
       "version": "0.0.1"
     }
   },
